@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 8E2F-9589
+
+ Directory of C:\Users\Avighna\Desktop\MyFolder
+
+02/23/2017  12:53 PM    <DIR>          .
+02/23/2017  12:53 PM    <DIR>          ..
+02/23/2017  12:53 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  1,896,719,536,128 bytes free
